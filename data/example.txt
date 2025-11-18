@@ -1,0 +1,3 @@
+大模型（LLM）指的是参数规模在十亿级以上的深度学习模型，如 GPT、LLaMA 等。
+RAG 是 Retrieval-Augmented Generation 的缩写，指通过检索增强生成能力的技术。
+本项目示例通过 FAISS 进行向量检索，并使用 LLM 生成最终回答。
