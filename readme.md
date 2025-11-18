@@ -5,7 +5,7 @@
 # **RAG-MVP: Minimal Retrieval-Augmented Generation System**
 
 一个轻量、可快速部署的 RAG（Retrieval-Augmented Generation）端到端 Demo，包含文档处理、向量检索、RAG 生成、FastAPI 服务与 Gradio Web Demo。
-本项目结构极简，适合作为大模型应用开发实习项目、真实业务 Demo 或进一步扩展为企业级 RAG 系统的基础架构。
+本项目结构极简，适合进一步扩展为企业级 RAG 系统的基础架构。
 
 ---
 
